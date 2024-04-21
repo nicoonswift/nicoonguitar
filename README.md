@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Nicolas' github stats](https://github-readme-stats.vercel.app/api?username=nicoonguitar&count_private=true&show_icons=true)
+![Nicolas' github stats](https://github-readme-stats.vercel.app/api?username=nicoonswift&count_private=true&show_icons=true)
 
 I’m a software engineer, focusing on iOS and IoT product development.
 
